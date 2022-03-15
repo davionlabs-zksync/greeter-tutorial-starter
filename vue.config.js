@@ -2,6 +2,6 @@
 
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/greeting-example/greeter-tutorial-starter'
+    ? '/greeter-tutorial-starter'
     : '/'
 }
